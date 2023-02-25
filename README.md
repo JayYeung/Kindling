@@ -1,6 +1,8 @@
 # Kindling
 Kindling is an online dating app that allows users to practice online dating without knowing the race of their partners. This way, users get to know more about their matches' personalities instead of rejecting them solely based on race.
 
+https://youtu.be/zVkgrkei52o
+
 Inspiration
 
 After we realized how racially bias popular online dating apps were such as Tinder, we were inspired to create this app. Most online dating apps take into account race -whether it is an inputted race from the user or an underlying race from the profile picture- in their matchmaking algorithm. As a result, you are more likely to match with a certain race depending on your previous match history. Our goal was to create an app where people were able to judge others based on character and personality instead of rejecting them instantly based on superficial looks or ethnicity.
